@@ -15,3 +15,6 @@ JsPdf library has been used to generate pdf for bills.
 ![Img6](https://user-images.githubusercontent.com/67229181/129441765-7bc55f13-93a4-437f-8d67-117d2e47f3b0.png)
 ![Img7](https://user-images.githubusercontent.com/67229181/129441766-3424ff09-0363-4268-8ffd-59852dcb671c.png)
 ![Img8](https://user-images.githubusercontent.com/67229181/129441767-72f2551b-4a21-4970-bcf6-058d66e0be34.png)
+![Img9](https://user-images.githubusercontent.com/67229181/129442037-efda4354-6718-4a73-9b42-b88cbd8f8271.png)
+
+
